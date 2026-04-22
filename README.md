@@ -17,7 +17,7 @@
 
 ## 📷 Screenshot
 
-![AdobeShield Screenshot](https://github.com/imeshsan2008/AdobeShield/blob/main/Ui.png?raw=true)
+![AdobeShield Screenshot](https://github.com/imeshsan2008/AdobeShield/blob/main/Ui.png?raw=tru](https://github.com/imeshsan2008/AdobeShield/blob/main/ui.png?raw=true)
 
 <br>
 📸 Modern UI with real-time firewall status
